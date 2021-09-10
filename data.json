@@ -1,0 +1,896 @@
+[
+  {
+    "slug": "roaccutane",
+    "title": {
+      "rendered": "Roaccutane"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "thread-veins",
+    "title": {
+      "rendered": "Thread Veins"
+    },
+    "ACF": {
+      "a_z_video": "https://www.youtube.com/embed/Lnng0M2fzeU",
+      "body_area": "zone3",
+      "sex_effected": ""
+    }
+  },
+  {
+    "slug": "dry-skin",
+    "title": {
+      "rendered": "Dry Skin"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "herpes-zoster-3",
+    "title": {
+      "rendered": "Zoster"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "warts",
+    "title": {
+      "rendered": "Warts"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone6"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "vitiligo",
+    "title": {
+      "rendered": "Vitiligo"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "verruca",
+    "title": {
+      "rendered": "Verruca"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone6", "zone7"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "urticaria-hives-2",
+    "title": {
+      "rendered": "Urticaria (Hives)"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone9"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "tinea-3",
+    "title": {
+      "rendered": "Tinea"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone7"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "thrush",
+    "title": {
+      "rendered": "Thrush"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "telogen-effluvium",
+    "title": {
+      "rendered": "Telogen Effluvium"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "photo-sensitivity-irritation-by-sun-light-2",
+    "title": {
+      "rendered": "Sunshine Sensitivity"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "sun-exposure",
+    "title": {
+      "rendered": "Sun Exposure"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "sunbeds",
+    "title": {
+      "rendered": "Sunbeds"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "leg-ulcers-statis-eczema-dermatitis",
+    "title": {
+      "rendered": "Stasis Eczema"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone7"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "squamous-cell-carcinoma",
+    "title": {
+      "rendered": "Squamous Cell Carcinoma"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "spots",
+    "title": {
+      "rendered": "Spots"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "solar-lentigo",
+    "title": {
+      "rendered": "Solar Lentigo"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "skin-tags",
+    "title": {
+      "rendered": "Skin Tags"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "skin-cancer",
+    "title": {
+      "rendered": "Skin Cancer"
+    },
+    "ACF": {
+      "a_z_video": "https://www.youtube.com/embed/ThKBEbvp3ww"
+    }
+  },
+  {
+    "slug": "skin-allergy",
+    "title": {
+      "rendered": "Skin Allergy"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "herpes-zoster-2",
+    "title": {
+      "rendered": "Shingles"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "folliculitis-spots-2",
+    "title": {
+      "rendered": "Shaving rash"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "seborrhoeic-keratosis",
+    "title": {
+      "rendered": "Seborrhoeic Keratosis"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "seborrhoeic-dermatitis",
+    "title": {
+      "rendered": "Seborrhoeic Dermatitis"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone2", "zone3"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "scabies",
+    "title": {
+      "rendered": "Scabies"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone9"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "rosacea",
+    "title": {
+      "rendered": "Rosacea"
+    },
+    "ACF": {
+      "a_z_video": "https://www.youtube.com/embed/P0K5GKzsbdc",
+      "body_area": "zone2",
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "basal-cell-carcinoma-2",
+    "title": {
+      "rendered": "Rodent Ulcer"
+    },
+    "ACF": {
+      "a_z_video": "https://www.youtube.com/embed/etWFWKcVG0E"
+    }
+  },
+  {
+    "slug": "rash",
+    "title": {
+      "rendered": "Rash"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "pyogenic-granuloma",
+    "title": {
+      "rendered": "Pyogenic Granuloma"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "pubic-lice-2",
+    "title": {
+      "rendered": "Pubic Lice"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone8"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "psoriasis",
+    "title": {
+      "rendered": "Psoriasis"
+    },
+    "ACF": {
+      "a_z_video": "https://www.youtube.com/embed/pXW9z4Kn1D0",
+      "body_area": [
+        "zone1",
+        "zone2",
+        "zone4",
+        "zone5",
+        "zone6",
+        "zone8",
+        "zone9"
+      ],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "pruritus",
+    "title": {
+      "rendered": "Pruritus"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "pompholyx",
+    "title": {
+      "rendered": "Pompholyx"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone6"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "pityriasis-versiculor",
+    "title": {
+      "rendered": "Pityriasis Versicolor"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone8"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "pityriasis-rosea",
+    "title": {
+      "rendered": "Pityriasis Rosea"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone9"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "photo-sensitivity-irritation-by-sun-light",
+    "title": {
+      "rendered": "Photo Sensitivity"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone2", "zone3"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "pemphigoid-2",
+    "title": {
+      "rendered": "Pemphigoid"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "nail-disease",
+    "title": {
+      "rendered": "Nail Disease"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "naevus-2",
+    "title": {
+      "rendered": "Naevus"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "naevus",
+    "title": {
+      "rendered": "Mole"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "molluscum",
+    "title": {
+      "rendered": "Molluscum"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone8"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "melanoma",
+    "title": {
+      "rendered": "Melanoma"
+    },
+    "ACF": {
+      "a_z_video": "https://www.youtube.com/embed/xMvyqq7wSOw"
+    }
+  },
+  {
+    "slug": "melasma",
+    "title": {
+      "rendered": "Melasma"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "mask-of-pregnancy",
+    "title": {
+      "rendered": "Mask of pregnancy"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "malignant",
+    "title": {
+      "rendered": "Malignant"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "liver-spots",
+    "title": {
+      "rendered": "Liver spots"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "lichen-sclerosus",
+    "title": {
+      "rendered": "Lichen Sclerosus"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone8"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "lichen-planus",
+    "title": {
+      "rendered": "Lichen Planus"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone8"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "lesion-lump",
+    "title": {
+      "rendered": "Lesion/Lump"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "lentigo",
+    "title": {
+      "rendered": "Lentigo"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "leg-ulcers-statis-dermatitis",
+    "title": {
+      "rendered": "Leg Ulcers (Stasis Dermatitis)"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "kerion",
+    "title": {
+      "rendered": "Kerion"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "keratoacanthoma",
+    "title": {
+      "rendered": "Keratoacanthoma"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "keratosis",
+    "title": {
+      "rendered": "Keratosis"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "kaposis-sarcoma",
+    "title": {
+      "rendered": "Kaposis Sarcoma"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "intertrigo",
+    "title": {
+      "rendered": "Intertrigo"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone8"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "impetigo",
+    "title": {
+      "rendered": "Impetigo"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": "zone2",
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "hyperhidrosis",
+    "title": {
+      "rendered": "Hyperhidrosis"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "urticaria-hives",
+    "title": {
+      "rendered": "Hives"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "histiocytomas",
+    "title": {
+      "rendered": "Histiocytomas"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "herpes-zoster",
+    "title": {
+      "rendered": "Herpes Zoster (Shingles)"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "cold-sores-herpes-2",
+    "title": {
+      "rendered": "Herpes Simplex (Cold Sores)"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone8"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "genital-warts",
+    "title": {
+      "rendered": "Genital Warts"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone8"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "genital-molluscum",
+    "title": {
+      "rendered": "Genital Molluscum"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "genital-skin-disease",
+    "title": {
+      "rendered": "Genital Skin Disease"
+    },
+    "ACF": {
+      "a_z_video": "https://www.youtube.com/embed/qtml4CnrsPI"
+    }
+  },
+  {
+    "slug": "genital-fungal-infections",
+    "title": {
+      "rendered": "Genital Fungal Infections"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "tinea-2",
+    "title": {
+      "rendered": "Fungus"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone1", "zone8"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "folliculitis-spots",
+    "title": {
+      "rendered": "Folliculitis"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "eczema-dermatitis",
+    "title": {
+      "rendered": "Eczema"
+    },
+    "ACF": {
+      "a_z_video": "https://www.youtube.com/embed/QgelHQVX5aE",
+      "body_area": ["zone2", "zone4", "zone5", "zone6", "zone8", "zone9"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "drug-reactions-to-medications",
+    "title": {
+      "rendered": "Drug Reactions"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "dermatofibroma",
+    "title": {
+      "rendered": "Dermatofibroma"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "darker-skinned-patients-2",
+    "title": {
+      "rendered": "Dermatitis"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "darker-skinned-patients",
+    "title": {
+      "rendered": "Darker Skin Patients"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "cysts",
+    "title": {
+      "rendered": "Cysts"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "pubic-lice",
+    "title": {
+      "rendered": "Crabs"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "cold-sores-herpes",
+    "title": {
+      "rendered": "Cold Sores  (Herpes)"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "candida-disease",
+    "title": {
+      "rendered": "Candida"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone8"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "bowens-disease",
+    "title": {
+      "rendered": "Bowens Disease"
+    },
+    "ACF": {
+      "a_z_video": "https://www.youtube.com/embed/xpKlQrVy844"
+    }
+  },
+  {
+    "slug": "pemphigoid",
+    "title": {
+      "rendered": "Blister"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "benign",
+    "title": {
+      "rendered": "Benign"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "basal-cell-carcinoma",
+    "title": {
+      "rendered": "Basal Cell Carcinoma"
+    },
+    "ACF": {
+      "a_z_video": "https://www.youtube.com/embed/etWFWKcVG0E"
+    }
+  },
+  {
+    "slug": "balanitis",
+    "title": {
+      "rendered": "Balanitis"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "atopic",
+    "title": {
+      "rendered": "Atopic"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone4"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "tinea",
+    "title": {
+      "rendered": "Athletes Foot"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "actinic-keratoses-solar-keratoses-age-spots-liver-spots-2",
+    "title": {
+      "rendered": "Age Spots"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "alopecia-areata",
+    "title": {
+      "rendered": "Alopecia Areata"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "androgenetic-alopecia",
+    "title": {
+      "rendered": "Androgenetic Alopecia"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "alopecia",
+    "title": {
+      "rendered": "Alopecia"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": "zone1",
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "allergies-and-rashes",
+    "title": {
+      "rendered": "Allergy"
+    },
+    "ACF": {
+      "a_z_video": "",
+      "body_area": ["zone2", "zone3", "zone6", "zone9"],
+      "sex_effected": ["Male", "Female"]
+    }
+  },
+  {
+    "slug": "actinic-keratoses-solar-keratoses-age-spots-liver-spots",
+    "title": {
+      "rendered": "Actinic Keratosis"
+    },
+    "ACF": {
+      "a_z_video": ""
+    }
+  },
+  {
+    "slug": "acne",
+    "title": {
+      "rendered": "Acne"
+    },
+    "ACF": {
+      "a_z_video": "https://www.youtube.com/embed/b-ti7yWTK04?hd=1&vq=hd720&quality=high&version=3&rel=0",
+      "body_area": "zone2",
+      "sex_effected": ["Male", "Female"]
+    }
+  }
+]
